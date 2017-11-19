@@ -69,4 +69,4 @@ router.all("/*", (req,res,next)=>{
 4. Refactor our code to make use of functions correctly
 5. Need to loop through upload to get pictures
 
-## [Join the Pet Basket Community! ](petbasket.community)
+## [Join the Pet Basket Community! ](http://petbasket.community/)

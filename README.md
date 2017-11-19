@@ -10,12 +10,12 @@ PetBasket is a web application designed to help match users with their ideal pet
 * **[Binh Chung](https://github.com/binhc)**: 
 	* **Primary team role**: Backend Routing, UX
   	* **Contributions**: Flow Chart, WireFrame, Database, Account Management, Gif Creator 
-  	* **Key code portions**: Profile, Navbar, Classified Listings 
+  	* **Key code portions**: Profile, Navbar(s), Classified Listings 
 
 * **[Jong Park](https://github.com/maclay13531)**:
-	 * **Primary team role**: text text text
-  	* **Contributions**:  text text text 
-  	* **Key code portions**: text text text 
+	 * **Primary team role**: Socket Expert 
+  	* **Contributions**:  Socket.io
+  	* **Key code portions**: Chat
 
 * **[Jennifer Menze](https://github.com/jamenze)**: 
   	* **Primary team role**: "#26a69a Enthusiast"
@@ -41,7 +41,7 @@ PetBasket is a web application designed to help match users with their ideal pet
 * Users can upload information and photo(s) of pets available for adoption.
 
 ## Demo
-![Project Screen Shot](public/images/petBasketDemo.gif)
+![Project Screen Shot](public/images/petBasket_Demo.gif)
 
 
 ## Wild Card Route/Global Variable
@@ -69,4 +69,4 @@ router.all("/*", (req,res,next)=>{
 4. Refactor our code to make use of functions correctly
 5. Need to loop through upload to get pictures
 
-## [View a live demo of PetBasket!](https://www.google.com)
+## [Join the Pet Basket Community! ](petbasket.community)
